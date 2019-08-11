@@ -6,7 +6,8 @@ const template = `
 console.log(concatenacao, template)
 
 // expressoes...
-console.log(`1 + 1 = ${1 + 1}`)
+var num = 2
+console.log(`1 + 1 = ${num + 1}`)
 
 const up = texto => texto.toUpperCase()
-console.log(`Ei... ${up('cuidado')}!`)
+console.log(`Ei... ${up('cuidado')}!`) 
