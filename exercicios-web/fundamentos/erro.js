@@ -21,4 +21,5 @@ function imprimirNomeGritado(obj) {
 }
 
 const obj = { nome: 'Roberto' }
+console.log(obj)
 imprimirNomeGritado(obj)
