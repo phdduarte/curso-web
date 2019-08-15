@@ -7,7 +7,7 @@ const carrinho = [
 
 // Retornar um array apenas com os preços
 
-const paraObjeto = json => JSON.parse(json)
+const paraObjeto = json => JSON.parse(json)//converte o texto para objeto
 const apenasPreco = produto => produto.preco
 
 const resultado = carrinho.map(paraObjeto).map(apenasPreco)

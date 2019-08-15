@@ -1,13 +1,11 @@
-standard_input.on('data', function (data) {
+const carrinho = [
+    '{ "nome": "Borracha", "preco": 3.45 }',
+    '{ "nome": "Caderno", "preco": 13.90 }',
+    '{ "nome": "Kit de Lapis", "preco": 41.22 }',
+    '{ "nome": "Caneta", "preco": 7.50 }'
+]
 
-    // User input exit.
-    if(data === 'exit\n'){
-        // Program exit.
-        console.log("User input complete, program exit.");
-        process.exit();
-    }else
-    {
-        // Print user input in console.
-        console.log('User Input Data : ' + data);
-    }
-});
+const texto = '{ "nome": "Borracha", "preco": 3.45 }'
+const texto2 = texto.replace(/\s/g,"").replace("}","")
+const texto3 = texto2.split(":")
+console.log(texto3[2])
