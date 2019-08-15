@@ -28,3 +28,6 @@ console.log(aprovados[2])
 aprovados = ['Bia', 'Carlos', 'Ana']
 aprovados.splice(1, 1)//o primeiro elemento é apartir dele que vai excluir, o segundo é quantos vao ser excluidos e a partir dai os que vc vai adicionar
 console.log(aprovados)
+
+aprovados.splice("bia",1)
+console.log(aprovados)

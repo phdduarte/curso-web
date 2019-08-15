@@ -1,21 +1,14 @@
-aprovados = ["Bia", "Carlos", "Ana"]
+const aprovados = ['pai', 'mae', 'fernanda', 'Gra']
+
+const aprovados2 = []
+const armazenar = function(nome, indice){
+    if (indice % 2 == 0){    
+        aprovados[indice] = nome
+    }
+    else{
+        aprovados[indice] = "teste"
+    }    
+}
+
+aprovados.forEach(armazenar)
 console.log(aprovados)
-console.log(aprovados[3])
-
-console.log(aprovados[3] === undefined)
-
-aprovados.push("Teste")
-
-console.log(aprovados)
-
-aprovados[9] = 10
-
-console.log(aprovados)
-
-console.log(aprovados.sort())
-
-delete aprovados[1]
-
-console.log(aprovados)
-
-console.log(aprovados[1] === undefined)
