@@ -1,5 +1,5 @@
 function tratarErroELancar(erro) {
-    // throw new Error('...')
+    //throw new Error('Aqui vai imprimir essa mensagem quando executar esse erro')
     // throw 10
     // throw true
     // throw 'mensagem'
@@ -22,4 +22,5 @@ function imprimirNomeGritado(obj) {
 
 const obj = { nome: 'Roberto' }
 console.log(obj)
-imprimirNomeGritado(obj)
+let upper = imprimirNomeGritado(obj)
+
