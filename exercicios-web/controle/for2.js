@@ -11,6 +11,6 @@ const pessoa = {
     peso: 64
 }
 
-for(let atributo in pessoa) {
+for(let atributo in pessoa) {//colocar let para que a variavel atributo nao seja acessada fora do for
     console.log(`${atributo} = ${pessoa[atributo]}`)
 }
