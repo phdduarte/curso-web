@@ -5,3 +5,8 @@ Anotacoes do curso de webmoderno
 
 # Roadmap
 
+- Capitulo função:
+- [x] 1 - cidadaoPrimeiraClasse
+- [x] 2 - paramsERetornoSaoOpcionais
+- [x] 3 - paramsVariaveis
+- [x] 4 - paramPadrao
