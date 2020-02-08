@@ -11,7 +11,7 @@ Anotacoes do curso de webmoderno
 - [x] 3 - paramsVariaveis
 - [x] 4 - paramPadrao
 - [x] 5 - This pode variar
-- [ ] 6 - This e a funcao bind
+- [x] 6 - This e a funcao bind
 - [ ] 7 - This e a funcao bind 2
 - [x] 8 - Funcoes Arrow
 - [ ] 9 - Funcoes Arrow 2
