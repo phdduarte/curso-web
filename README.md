@@ -14,8 +14,8 @@ Anotacoes do curso de webmoderno
 - [x] 6 - This e a funcao bind
 - [x] 7 - This e a funcao bind 2
 - [x] 8 - Funcoes Arrow
-- [ ] 9 - Funcoes Arrow 2
-- [ ] 10 - Funcoes Arrow 3
+- [x] 9 - Funcoes Arrow 2
+- [x] 10 - Funcoes Arrow 3
 - [ ] 11 - Funcoes Anonimas
 - [ ] 12 - Funcoes Callback
 - [ ] 13 - Funcoes Callback 2
