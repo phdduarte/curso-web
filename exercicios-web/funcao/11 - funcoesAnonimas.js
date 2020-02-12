@@ -16,7 +16,13 @@ imprimirResultado(3, 4, (x, y) => x * y)
 const pessoa = {
     falar: function () {
         console.log('Opa')
+    },
+    andar() {
+        console.log("caminhando...")
     }
 }
 
+
 pessoa.falar()
+pessoa.andar()
+
