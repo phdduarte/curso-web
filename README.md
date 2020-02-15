@@ -17,7 +17,7 @@ Anotacoes do curso de webmoderno
 - [x] 9 - Funcoes Arrow 2
 - [x] 10 - Funcoes Arrow 3
 - [x] 11 - Funcoes Anonimas
-- [ ] 12 - Funcoes Callback
+- [x] 12 - Funcoes Callback
 - [ ] 13 - Funcoes Callback 2
 - [ ] 14 - Funcoes Callback 3
 - [ ] 15 - Funcoes Construtoras
