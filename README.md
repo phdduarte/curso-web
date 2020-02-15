@@ -18,8 +18,8 @@ Anotacoes do curso de webmoderno
 - [x] 10 - Funcoes Arrow 3
 - [x] 11 - Funcoes Anonimas
 - [x] 12 - Funcoes Callback
-- [ ] 13 - Funcoes Callback 2
-- [ ] 14 - Funcoes Callback 3
+- [x] 13 - Funcoes Callback 2
+- [x] 14 - Funcoes Callback 3
 - [ ] 15 - Funcoes Construtoras
 - [ ] 16 - Tipos de Declaração
 - [ ] 17 - Contexto Léxico
