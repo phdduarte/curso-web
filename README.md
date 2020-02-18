@@ -20,7 +20,7 @@ Anotacoes do curso de webmoderno
 - [x] 12 - Funcoes Callback
 - [x] 13 - Funcoes Callback 2
 - [x] 14 - Funcoes Callback 3
-- [ ] 15 - Funcoes Construtoras
+- [x] 15 - Funcoes Construtoras
 - [ ] 16 - Tipos de Declaração
 - [ ] 17 - Contexto Léxico
 - [ ] 18 - Closures
@@ -30,8 +30,3 @@ Anotacoes do curso de webmoderno
 - [ ] 22 - Desafio Função construtora
 - [ ] 23 - IIFE
 - [ ] 24 - Lista de exercicios: Fundamentos, Esturas de controle e Funções
-
-
-
-
-
