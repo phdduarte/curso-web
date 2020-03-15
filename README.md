@@ -22,7 +22,7 @@ Anotacoes do curso de webmoderno
 - [x] 14 - Funcoes Callback 3
 - [x] 15 - Funcoes Construtoras
 - [x] 16 - Tipos de Declaração
-- [ ] 17 - Contexto Léxico
+- [x] 17 - Contexto Léxico
 - [ ] 18 - Closures
 - [ ] 19 - Função Factory
 - [ ] 20 - Função Factory 02
