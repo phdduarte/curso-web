@@ -7,3 +7,4 @@ function criarPessoa() {
 }
 
 console.log(criarPessoa())
+console.log(typeof(criarPessoa())) // A factory deve retornar um objeto
