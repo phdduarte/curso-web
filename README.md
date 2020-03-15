@@ -25,7 +25,7 @@ Anotacoes do curso de webmoderno
 - [x] 17 - Contexto Léxico
 - [x] 18 - Closures
 - [x] 19 - Função Factory
-- [ ] 20 - Função Factory 02
+- [x] 20 - Função Factory 02
 - [ ] 21 - Classe vs Função Factory
 - [ ] 22 - Desafio Função construtora
 - [ ] 23 - IIFE
