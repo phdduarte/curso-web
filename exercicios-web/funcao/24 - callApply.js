@@ -19,5 +19,5 @@ const carro = { preco: 49990, desc: 0.20 }
 console.log(getPreco.call(carro))
 console.log(getPreco.apply(carro))
 
-console.log(getPreco.call(carro, 0.17, '$'))
-console.log(getPreco.apply(global, [0.17, '$']))
+console.log(getPreco.call(carro, 0.17, '$')) // passa primeiro o contexto e depois vc passa os parametros que vao para a funcao get preco
+console.log(getPreco.apply(global, [0.17, '$'])) // voce passa dessa vez no apply os objetos como um array 
