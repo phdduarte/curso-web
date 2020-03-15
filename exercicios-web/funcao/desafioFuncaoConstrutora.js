@@ -1,4 +1,4 @@
-function Pessoa(nome) {
+function Pessoa(nome) { 
     this.nome = nome
     
     this.falar = function() {

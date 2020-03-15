@@ -26,7 +26,7 @@ Anotacoes do curso de webmoderno
 - [x] 18 - Closures
 - [x] 19 - Função Factory
 - [x] 20 - Função Factory 02
-- [ ] 21 - Classe vs Função Factory
+- [x] 21 - Classe vs Função Factory
 - [ ] 22 - Desafio Função construtora
 - [ ] 23 - IIFE
 - [ ] 24 - Lista de exercicios: Fundamentos, Esturas de controle e Funções
