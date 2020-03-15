@@ -15,4 +15,6 @@ console.log(sub(3, 4))
 const mult = function mult(x, y) {
     return x * y
 }
+
+// nao pode chamar ela antes de ser construida no caso da function expression
 console.log(mult(3, 4))
