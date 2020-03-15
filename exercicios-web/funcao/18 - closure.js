@@ -1,4 +1,4 @@
-// Closure é o escopo criado quando uma função é declarada
+// Closure(fecho) é o escopo criado quando uma função é declarada
 // Esse escopo permite a função acessar e manipular variáveis externas à função
 
 // Contexto léxico em ação!
@@ -14,4 +14,4 @@ function fora() {
 }
 
 const minhaFuncao = fora()
-console.log(minhaFuncao())
+console.log(minhaFuncao()) // imprime Local porque a funcao sabe onde ela foi declarada
