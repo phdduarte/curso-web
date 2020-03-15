@@ -3,7 +3,7 @@ Anotacoes do curso de webmoderno
 
 - aula 41 a 44 operadores destructuring - retirar atributos de objetos
 
-# Roadmap
+# Capitulo Função
 
 - Capitulo função:
 - [x] 1 - cidadaoPrimeiraClasse
@@ -31,3 +31,5 @@ Anotacoes do curso de webmoderno
 - [x] 23 - IIFE
 - [x] 24 - Call & Apply
 - [ ] 25 - Lista de exercicios: Fundamentos, Esturas de controle e Funções
+
+# Roadmap
