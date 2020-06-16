@@ -9,8 +9,8 @@ console.log(obj2)
 
 // Funções construtoras
 function Produto(nome, preco, desc) {
-    this.nome = nome
-    this.getPrecoComDesconto = () => {
+    this.nome = nome // this passa a ser o objeto referenciado o valor de nome esta visivel para fora
+    this.getPrecoComDesconto = () => { // o valor de preco e desc estao visiveis apenas dentro da funcao getPrecoDesconto
         return preco * (1 - desc)
     }
 }
@@ -20,6 +20,7 @@ const p2 = new Produto('Notebook', 2998.99, 0.25)
 console.log(p1.getPrecoComDesconto(), p2.getPrecoComDesconto())
 
 // Função Factory
+// Uma função que recebe parametros e fabrica objetos
 function criarFuncionario(nome, salarioBase, faltas) {
     return {
         nome,
