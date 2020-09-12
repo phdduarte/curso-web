@@ -41,7 +41,7 @@ Anotacoes do curso de webmoderno
 - [x] 03 - Estratégias de Criação de Objetos
 - [x] 04 - Objetos Constantes
 - [x] 05 - Notação Literal
-- [ ] 06 - Getters/Setters
+- [x] 06 - Getters/Setters
 - [ ] 07 - Funções Importantes de Objeto
 - [ ] 08 - Herança #01
 - [ ] 09 - Herança #02
