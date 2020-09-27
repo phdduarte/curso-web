@@ -86,10 +86,10 @@ Anotacoes do curso de webmoderno
 - [x] 02 - Primeiro Componente
 - [x] 03 - Componente Com Parâmetro
 - [x] 04 - Múltiplos Componentes
-- [ ] 05 - Componente de Classe #01
-- [ ] 06 - Componente de Classe #02
-- [ ] 07 - Componentes: Pai & Filho #01
-- [ ] 08 - Componentes: Pai & Filho #02
+- [x] 05 - Componente de Classe #01
+- [x] 06 - Componente de Classe #02
+- [x] 07 - Componentes: Pai & Filho #01
+- [x] 08 - Componentes: Pai & Filho #02
 
 # Seção 21:Projeto Calculadora
 

@@ -10,7 +10,7 @@ export default class Saudacao extends Component {
     constructor(props) {
         super(props)
         
-        this.setTipo = this.setTipo.bind(this)
+        this.setTipo = this.setTipo.bind(this) // Funcao bind 
     }
 
     setTipo(e) {
